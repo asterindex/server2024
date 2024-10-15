@@ -1,0 +1,15 @@
+/Users/anatolykot/Projects/server2024/server2024/bin/Debug/net7.0/server2024
+/Users/anatolykot/Projects/server2024/server2024/bin/Debug/net7.0/server2024.deps.json
+/Users/anatolykot/Projects/server2024/server2024/bin/Debug/net7.0/server2024.runtimeconfig.json
+/Users/anatolykot/Projects/server2024/server2024/bin/Debug/net7.0/server2024.dll
+/Users/anatolykot/Projects/server2024/server2024/bin/Debug/net7.0/server2024.pdb
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.csproj.AssemblyReference.cache
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.AssemblyInfoInputs.cache
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.AssemblyInfo.cs
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.csproj.CoreCompileInputs.cache
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.dll
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/refint/server2024.dll
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.pdb
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/server2024.genruntimeconfig.cache
+/Users/anatolykot/Projects/server2024/server2024/obj/Debug/net7.0/ref/server2024.dll
